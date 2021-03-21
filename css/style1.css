@@ -1,0 +1,101 @@
+#ch {
+	background-color: #E3EAEF;
+	margin-top: 10px;
+}
+#hui {
+	margin-left:0%;
+}
+#tr {
+	color: 	#FF6347;
+	font-weight: bold;
+}
+#bil1,#hasil,#total,#jml {
+	padding-right: 80px;
+	border: none;
+}
+#th {
+	padding-right: 260px;
+}
+#tsm {
+	text-align: center;
+}
+#form1,#form2,#form3 {
+	width: 100%;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: #E3EAEF;
+}
+#btn {
+	float: right;
+}
+#opt1,#opt2,#opt3 {
+	width: 50%;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: #A9A9A9;
+}
+#bil2 {
+	width: 10%;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: #A9A9A9;
+}
+#bank {
+	padding: 10px;
+}
+#hd {
+	height: 0px;
+}
+#cb {
+	margin-left: 16%;
+}
+#dcb {
+	padding: 0px; 
+	margin-top: 10px;
+}
+#tf {
+	background-color: #f8f9fa;
+}
+#oc {
+	margin-left: 180px;
+}
+.tr1 {
+	padding: 10px;
+	background-color: red;
+}
+#tc {
+	color: red;
+}
+#lg {
+	color: white;
+}
+#th1 {
+	color: white;
+	background-color: #6777ef;
+}
+thead {
+	background-color: #6777ef;
+}
+th {
+	color: white;
+}
+input {
+	font-weight: bold;
+}
+#th2 {
+	color: black;
+}
+#tr1 {
+   border-bottom: 2px solid #E3EAEF;
+}
+#head {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#lh {
+	line-height: 15px;
+}
+#mt {
+    margin-top: 10px;
+}

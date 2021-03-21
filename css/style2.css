@@ -1,0 +1,102 @@
+#tk {
+	margin-bottom: 3px;
+	background-color: #f8f9fa;
+}
+#bt {
+	margin-bottom: 10px;
+}
+#pl {
+	margin-top: 30px;
+}
+#tsm {
+	text-align: center;
+}
+#tc {
+	color: red;
+	margin-bottom: -30px;
+}
+#tz {
+	color: red;
+}
+#opt1,#opt2,#opt3,#opt4,#opt5,#opt6,#opt7,#opt8,#opt9,#opt10,#opt11,#opt12,#opt13,#opt14,#opt15,#opt16,#opt17,#opt18,#opt19,#opt20,#opt21,#opt22,#opt23,#opt24,#opt25,#opt26,#opt27,#opt28,#opt29,#opt30,#opt31,#opt32,#opt33,#opt34,#opt35,#opt36 {
+	width: 50px;
+	padding: 2px;
+	border-radius: 5px;
+	border-color: #A9A9A9;
+}
+#itt1,#itt2,#itt3,#itt4,#itt5,#itt6,#itt7,#itt8,#itt9,#itt10,#itt11,#itt12,#itt13,#itt14,#itt15,#itt16,#itt17,#itt18,#itt19,#itt20,#itt21,#itt22,#itt23,#itt24,#itt25,#itt26,#itt27,#itt28,#itt29,#itt30,#itt31,#itt32,#itt33,#itt34,#itt35,#itt36 {
+	width: 170px;
+	padding: 1px;
+	border-radius: 5px;
+	border-color: #A9A9A9;
+}
+#point1,#point2,#point3,#point4,#point5,#point6,#point7,#point8,#point9,#point10,#point11,#point12,#point13,#point14,#point15,#point16,#point17,#point18,#point19,#point20,#point21,#point22,#point23,#point24,#point25,#point26,#point27,#point28,#point29,#point30,#point31,#point32,#point33,#point34,#point35,#point36 {
+	width: 100px;
+	padding: 1px;
+	border-radius: 5px;
+	border-color: #A9A9A9;
+}
+#ty {
+	background-color: #f8f9fa;
+	text-align: center;
+}
+#l1 {
+	margin-left: 60px;
+	width: 150px;
+	background-color: #f8f9fa;
+	border-color: grey;
+}
+#l2 {
+	margin-left: 48px;
+	width: 150px;
+	background-color: #f8f9fa;
+	border-color: grey;
+}
+#l3 {
+	margin-left: 29px;
+	width: 150px;
+	background-color: white;
+	border-color: grey;
+}
+#kelas {
+	margin-left: 59px;
+	width: 150px;
+}
+#nogan {
+	margin-left: 26px;
+	width: 150px;
+}
+#l6 {
+	margin-left: 22px;
+	width: 161px;
+}
+#th {
+	background-color: #6777ef; 
+	color: white;
+}
+#tb {
+	background-color: white;
+}
+thead {
+	background-color: #6777ef;
+}
+th {
+	color: white;
+}
+input {
+	font-weight: bold;
+}
+label {
+	color: black;
+	font-weight: bold;
+}
+#tambah {
+	color: white;
+}
+#kelasfc {
+	margin-bottom: 20px;
+	border-color: blue;
+}
+#cpw {
+	margin-top: 0px;
+}
